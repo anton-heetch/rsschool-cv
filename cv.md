@@ -8,6 +8,7 @@
 * **E-mail:** [green.frost@gmail.com](mailto://green.frost@gmail.com)
 * **Telegram:** [@antonheetch](https://t-do.ru/@antonheetch)
 * **Linked-in:** [anton-ht](www.linkedin.com/in/anton-ht)
+
 ---
 ### About
 Engaged in the development of various types of projects. E-commerce, thematic community sites, promo sites, internal company service for holding and storing seminars. I was engaged in development both from scratch and developed individual modules and functionalities.
